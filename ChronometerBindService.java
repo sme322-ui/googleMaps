@@ -1,4 +1,4 @@
-Package com.pcschool.mygooglemap;
+package com.pcschool.mygooglemap;
 
 import android.app.Service;
 import android.content.Context;
