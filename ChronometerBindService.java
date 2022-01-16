@@ -1,4 +1,4 @@
-ackage com.pcschool.mygooglemap;
+Package com.pcschool.mygooglemap;
 
 import android.app.Service;
 import android.content.Context;
